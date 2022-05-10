@@ -3,12 +3,19 @@ We  developed an algorithm to quantify the theoretical contributions of on-targe
 
 # Dependencies 
 The following dependencies are for use of the  workflow scripts.
+
 Python 3.4 or higher
+
 R 3.8 or higher
+
 pandas Python package
+
 numpy Python package
+
 sympy Python package
+
 sys Python package
+
 ggplot2 R package
 # How to run it
 # Example
@@ -29,6 +36,7 @@ python3 anti-para.py 91.43 1.085 0.2744 94.66 1.043 0.276 93.77 1.054 14.18 100 
 0.276 is MDRI Kprime
 
 2. TC50 
+
 93.77 is NC Vmax 
 
 1.054 is NC Hill slope
