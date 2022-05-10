@@ -14,7 +14,7 @@ ggplot2 R package
 # Example
 python3 anti-para.py 91.43 1.085 0.2744 94.66 1.043 0.276 93.77 1.054 14.18 100 1.065 58.8 PTX.csv
 # input data
-1.EC50 data
+1.EC50 data\n
 91.43 is NC Vmax 
 1.085 is NC Hill slope
 0.2744 is NC Kprime
