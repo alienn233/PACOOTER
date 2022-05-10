@@ -35,7 +35,7 @@ python3 anti-para.py 91.43 1.085 0.2744 94.66 1.043 0.276 93.77 1.054 14.18 100 
 
 0.276 is MDRI Kprime
 
-2. TC50 
+2.TC50 data 
 
 93.77 is NC Vmax 
 
